@@ -21,15 +21,18 @@
   - This block is meant to organize the healtCare system of a counntry, but it will also be used in a game or a virtual world, it will let you define an structure and a set of rules and roles restricted to *communityDAO*, *RepublicaDAO* or a *constitutionDAO* or not.
 - **UniversityDAO**
   - This block is meant to organize the Universist system of a counntry, but it will also be used in a game or a virtual world, it will let you define an structure and a set of rules and roles restricted to *communityDAO*, *RepublicaDAO or a *constitutionDAO* or not. 
-- **InsuranceDAO***
+- **InsuranceDAO**
   - This block is meant to define a system for companies, communities, countries, banks, but it will also be used in a game or a virtual world, it will let you define an structure and a set of rules and roles or contracts restricted to *communityDAO*, *RepublicaDAO* or a *constitutionDAO* or not, to define what real properties, money, tokens, cryptos are assured.
 - **CompanyDAO** 
   - This block is meant to represent a company, a real one or a virtual where you can define a set of rules, roles, members, workers, wages, and anything related to their control and management.
 - **InvestmentDAO**
-  - 
-- DEFI_DAO*
-- DEX_ExchangeDAO
-- SimpleDAO
+  - This block is meant to represent a group of inversors, people or institutions that want to invest on several projects that should have to be defined, they can be any kind of projects, science, technological, environmental, industries, investigations but they also be used on a game, virtual world or a real country or community.
+- **DEFI_DAO**
+  - This block is meant to give a set of rules and tools to let you build a *DEFI* system based on whatever coins,tokens, money you want to use and can be apply to real world, virtual world or games. 
+- **DEX_ExchangeDAO**
+  - This block is meant to give a set of rules and tools to let you build a *DEX echange* system based on whatever coins,tokens, money you want to use and can be apply to real world, virtual world or games.  
+- **SimpleDAO**
+  - This is the simple block used by most of others, it let you define a group of people by any means, tokens, coins, NFT's, Proof of Identity, Proof of Person..... 
 -----------------------------------
 - Proof of Identity
 - Proof of Person
