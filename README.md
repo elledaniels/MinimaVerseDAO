@@ -34,17 +34,27 @@
 - **SimpleDAO**
   - This is the simple block used by most of others, it let you define a group of people by any means, tokens, coins, NFT's, Proof of Identity, Proof of Person..... 
 -----------------------------------
-- Proof of Identity
-- Proof of Person
-- Proof of Property
-- Proof of Certificate
-- CompanyRegister System
-- PropertyRegister System
-- PatentRegister System
-- Tax System
-- Payment System
-- Smart Contract Builder
-
+- **Proof of Identity**
+  - A system based on NFT and the colaboration of the network to build a system to generate a NFT that proof that an NFT belongs to a person with their real information embedded on the NFT and the validators who participated validating the documents on a video chat.
+- **Proof of Person** 
+  - A derived NFT from the *Proof of Identity* that can assure that an NFT belongs to one person and it is unique granting the person remains anonymous
+- **Proof of Property** 
+  - A derived NFT from *Proof of Identity* or *Proof of Person* if the property is real or virtual.
+- **Proof of Certificate**
+  - A derived NFT from *Proof of Identity* or *Proof of Person* if the certificate is real(university, schools, courses) or virtual if they are tokens won from a conquest, game, virtual world
+- **CompanyRegister System**
+  - A system to let companies register themselves and get an NFT that certifies the company, it can be real or virtual
+- **PropertyRegister System**
+  - A system to let register real world properties and get and NFT that certifies that, it can be used on a virtual world or game too.
+- **PatentRegister System**
+  - A system to let people to register an idea, invent, device, program on the real world or a virtual world and define a set of royalties to receive and the conditions when to receive them.
+- **Tax System**
+  - A system to set a tax system at all levels, countries, communities, games, virtual worlds, metaverses and the rules how to apply them and to who apply them
+- **Payment System**
+  - A system to let people pay for goods using their mobile, wallets or any other means in a real or virtual world.
+- **Smart Contract Builder**
+  - A system to let people to build smart contracts based on a series of rules, conditions, goals from basic set of avaiables smart contracts.
+  
 <!---
 elledaniels/elledaniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
