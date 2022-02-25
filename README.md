@@ -31,6 +31,8 @@
   - This block is meant to give a set of rules and tools to let you build a *DEFI* system based on whatever coins,tokens, money you want to use and can be apply to real world, virtual world or games. 
 - **DEX_ExchangeDAO**
   - This block is meant to give a set of rules and tools to let you build a *DEX echange* system based on whatever coins,tokens, money you want to use and can be apply to real world, virtual world or games.  
+- **TV_DAO**
+  - This block is meant to give a set of rules and tools to let you build a *Televison* system based on whatever coins,tokens, money you want to use and can be apply to real world, virtual world or games, minimaverses, mutiverses.  
 - **SimpleDAO**
   - This is the simple block used by most of others, it let you define a group of people by any means, tokens, coins, NFT's, Proof of Identity, Proof of Person..... 
 -----------------------------------
